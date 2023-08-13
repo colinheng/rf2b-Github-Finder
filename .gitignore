@@ -2,7 +2,7 @@
 
 # github api personal access token 
 # this is token #2 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
-./env
+.env
 
 # dependencies
 /node_modules
